@@ -1,3 +1,8 @@
+
+## RNG Simulator Test PHP
+
+
+
 ## The RNG should consist of:
 
 An input box to assign how many dice to roll
